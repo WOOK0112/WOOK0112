@@ -1,16 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 
-<!--
-**WOOK0112/WOOK0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+반갑습니다.👋
+발전하기 위해 노력하는 백엔드 개발자 김동욱입니다.
+제 깃허브에 오신 것을 환영합니다. 😄
 
-Here are some ideas to get you started:
+📧 Email 📧
+whdns112@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️Tech Stack⚙️
+
+
+
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=WOOK0112&show_icons=true)
